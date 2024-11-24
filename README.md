@@ -547,6 +547,7 @@ Total deals: 487
 | 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📈 | [Project Profit](https://projectprof.it?ref=awesomebf) | Optimize project finance management with Project Profit for tracking expenses and income. | 50% off with code **BF2024** |
 | 💵 | [Insights for Admob: Stats](https://apps.apple.com/us/app/insights-for-admob-stats/id6738271607) | Great tool to track your AdMob earnings right from your home screen with beautiful widgets. ✅ Daily, Weekly, and Monthly Revenue ✅ Charts ✅ App earnings ✅ eCPM, Impressions, and Clicks ✅ Support converting to more than 150 currencies.| 50% OFF Annual Subscription available from Nov 23 to Nov 30 |
+| 💸 | [Lifetime Assets Tracker Spreadsheet](https://prosheetivity.gumroad.com/l/lifetime-assets-tracker/BF39) | Organize, monitor, and grow your financial portfolio with ease using this detailed tracker. Perfect for smarter wealth management and staying on top of your assets! | Get lifetime access for just +$3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
