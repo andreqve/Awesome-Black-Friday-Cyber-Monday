@@ -554,6 +554,7 @@ Total deals: 488
 | 💵 | [Insights for Admob: Stats](https://apps.apple.com/us/app/insights-for-admob-stats/id6738271607) | Great tool to track your AdMob earnings right from your home screen with beautiful widgets. ✅ Daily, Weekly, and Monthly Revenue ✅ Charts ✅ App earnings ✅ eCPM, Impressions, and Clicks ✅ Support converting to more than 150 currencies.| 50% OFF Annual Subscription available from Nov 23 to Nov 30 |
 | 🛡️ | [Expenses Manager](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) | #1 Private Expense Tracker: Budget, Track Spending, and Save Smarter with Expenses Manager. | **80% OFF** on Liftime Premium (Available from Nov 26 - Dec 2) |
 | 🧾 | [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) | Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need. | **50% OFF** (Available from Nov 26 - Dec 2) |
+| 💸 | [Lifetime Assets Tracker Spreadsheet](https://prosheetivity.gumroad.com/l/lifetime-assets-tracker) | Organize, monitor, and grow your financial portfolio with ease using this detailed tracker. Perfect for smarter wealth management and staying on top of your assets! | Get lifetime access 39% OFF with code **BF39** |
 
 [⬆️ Go to Top](#table-of-contents)
 
